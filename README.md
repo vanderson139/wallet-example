@@ -1,7 +1,7 @@
 # wallet-example
 Wallet example with Chain of Responsibility
 
-Install dependencies:
+Install dependencies (phpunit):
 
 Composer
 ```shell script

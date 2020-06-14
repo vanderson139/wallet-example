@@ -1,4 +1,6 @@
-<?php namespace App;
+<?php namespace App\Handlers;
+
+use App\Transaction;
 
 class TransactionHandler extends AbstractTransactionHandler
 {
