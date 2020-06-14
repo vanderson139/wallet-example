@@ -1,8 +1,8 @@
 <?php namespace Tests;
 
 use App\Transaction;
-use App\TransactionHandler;
-use App\PayerHasBalanceHandler;
+use App\Handlers\TransactionHandler;
+use App\Handlers\PayerHasBalanceHandler;
 use App\TransactionManager;
 use App\Wallet;
 use PHPUnit\Framework\TestCase;
